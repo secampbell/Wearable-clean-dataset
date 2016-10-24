@@ -2,11 +2,11 @@
 
 This code book summarizes the resulting data fields in tidy.txt.
 
-Identifiers-
-
-subject - The ID of the test subject
-activity - The type of activity performed when the corresponding measurements were taken
-
+<h2>Identifiers-</h2>
+<ol>
+<li>subject - The ID of the test subject
+<li>activity - The type of activity performed when the corresponding measurements were taken
+</ol>
 Measurements-
 
 tBodyAccMeanX
