@@ -8,11 +8,9 @@ The purpose of this project is to demonstrate the ability to collect, work with,
 
 <h2>Project Summary</h2>
 
-The following is a summary description of the project instructions
-
 Creation of one R script called run_analysis.R that does the following-
 <ol>
-<li>1. Merges the training and the test sets to create one data set. 
+<li>Merges the training and the test sets to create one data set. 
 <li>Extracts only the measurements on the mean and standard deviation for each measurement. 
 <li>Uses descriptive activity names to name the activities in the data set 
 <li>Appropriately labels the data set with descriptive variable names, and, 
@@ -20,4 +18,4 @@ Creation of one R script called run_analysis.R that does the following-
 </ol>
 <h2>Additional Information</h2>
 
-Additional information about the variables, data and transformations in the CodeBook.MD file.
+Additional information about the variables and data can be found in the CodeBook.MD file.
