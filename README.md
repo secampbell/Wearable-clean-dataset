@@ -1,4 +1,4 @@
-<h1>Getting and Cleaning Data Project</h1>
+<h1>Getting and Cleaning Data</h1>
 
 Course project repository the Johns Hopkins 'Getting and Cleaning Data' course.
 
